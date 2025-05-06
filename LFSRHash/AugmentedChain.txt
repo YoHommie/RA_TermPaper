@@ -1,0 +1,3858 @@
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 614 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 446 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 442 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 447 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 442 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 442 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 453 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 501 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 470 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 477 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 447 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23431 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 23434 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 883 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 898 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1901 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 1904 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1444 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1399 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2977 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 2980 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1775 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1863 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1867 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2253 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2392 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2396 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3936 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4146 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 4150 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3199 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3396 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3400 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3798 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4044 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4048 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4600 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4879 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4883 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4961 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5283 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5287 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6852 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7456 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7460 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8943 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 9877 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 9881 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 10928 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 12204 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 12208 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13867 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 15779 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 15783 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 15978 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18468 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 18473 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19456 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22744 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22751 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21151 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25329 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25333 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23027 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 27957 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 27962 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 444 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 454 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 470 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 593 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6131 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 6135 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 895 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 906 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1884 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 1888 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1346 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1396 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1399 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1726 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1928 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3850 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 3855 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2165 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2293 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2299 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2721 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2877 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2880 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3163 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3341 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3345 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3642 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3880 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 3902 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3982 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4241 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4244 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4513 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4831 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 4835 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6996 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7607 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7611 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 10132 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 11103 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 11108 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11259 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 12632 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 12639 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13883 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 15850 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 15854 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 15909 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18391 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 18395 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18072 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21261 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 21266 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20372 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24327 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 24369 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22892 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 27701 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 27705 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 445 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 486 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 490 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 887 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 872 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 903 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2768 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 2771 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1341 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1342 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2797 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 2800 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1783 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1861 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1865 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2309 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2418 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2421 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2715 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2854 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2857 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3156 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3353 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3357 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3629 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3879 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7982 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 7986 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4323 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4586 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4589 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4806 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5089 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5093 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6662 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7222 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7226 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9276 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10194 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10198 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11392 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 12793 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 12798 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14136 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16044 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16048 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16589 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19107 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19111 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18783 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22285 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22290 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20989 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25189 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25193 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22927 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 27864 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 27868 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 573 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 507 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 509 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 443 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 452 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 592 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 443 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 583 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 443 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 445 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 26547 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 26550 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 886 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 933 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 936 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1368 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1429 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1432 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2113 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2222 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 2226 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2210 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2330 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2333 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2546 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2954 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5793 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 5796 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3094 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3266 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3269 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3832 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4056 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4060 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3819 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4005 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3944 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3850 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4121 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21128 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 21133 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4756 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5064 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5069 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7144 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7754 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7758 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9044 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10005 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10009 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11574 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13097 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13101 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13764 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 15725 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 15733 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16680 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19131 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19135 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18393 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21287 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 21291 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20966 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25028 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25033 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23220 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 28353 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 28357 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 483 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 496 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 497 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 442 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 439 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 480 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 480 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 454 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20150 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 20153 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 861 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 863 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 866 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2699 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 2703 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1355 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1397 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1399 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1786 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1768 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3691 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 3695 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2272 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2381 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2385 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2713 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2889 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2892 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2987 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2942 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2964 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2943 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3006 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2971 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3017 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2996 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3165 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2939 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2981 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2971 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2986 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3000 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2936 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2998 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2963 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3076 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2964 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3011 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2937 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3096 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2956 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2952 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3032 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2945 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3064 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2938 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3030 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2959 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3082 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2962 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2982 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2947 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2954 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3025 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2932 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3001 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3237 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3539 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3129 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3618 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2940 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3375 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2945 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3302 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2966 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3391 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2962 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3333 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2960 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3158 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3053 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2947 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3196 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2996 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3393 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2980 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3735 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2992 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3807 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3007 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3084 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2988 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3478 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 211245 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 211249 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3765 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4086 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4105 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4084 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4492 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4496 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4825 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5150 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5155 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7019 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7661 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7665 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 10674 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 11628 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 11632 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11899 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13281 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13286 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14529 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16450 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16454 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 17200 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20198 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 20203 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19816 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23615 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 23632 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21195 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25223 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25227 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24813 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 30033 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 30038 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 512 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 457 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 520 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 635 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 450 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 452 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 481 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 542 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 653 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10382 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 10386 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 884 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 893 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 879 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2754 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 2758 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1317 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1370 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1374 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2081 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2204 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 2208 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2243 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2454 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2457 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2652 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2851 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2854 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3803 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3985 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3989 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3844 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4209 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4237 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4146 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4571 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4575 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5049 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5373 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5377 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7291 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7419 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 15983 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 15988 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9914 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10902 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10906 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12303 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13693 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13697 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14181 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16069 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16073 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16870 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19789 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19793 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19625 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23086 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 23091 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21410 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25478 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25483 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 25368 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 30466 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 30470 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 459 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 468 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 677 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 456 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 453 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 472 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 443 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 448 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 442 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 446 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 455 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 505 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 502 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 450 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19919 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 19922 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 860 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 871 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1050 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1161 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4157 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 4161 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1314 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1373 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1376 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1763 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1843 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1846 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2503 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2682 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2687 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2726 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2921 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2924 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3272 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3569 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3576 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3853 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4106 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4110 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4625 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4894 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4898 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4914 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5233 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5237 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7153 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7740 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7744 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9457 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10401 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10405 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12076 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13731 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13735 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14320 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16521 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16526 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16607 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19292 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19301 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18941 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22158 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22163 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 40149 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 54194 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 54205 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 34466 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 42082 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 42091 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 454 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 544 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 485 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 535 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 465 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 609 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 583 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 494 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 410 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 418 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 410 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 416 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 408 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 473 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 480 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 539 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 494 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 476 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 447 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13572 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 13576 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 861 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 870 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1028 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2880 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 2887 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1745 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1827 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1831 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1768 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1801 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3726 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 3729 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2489 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2617 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2621 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2779 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2932 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2936 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3436 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3653 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3657 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3561 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3823 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 3827 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4291 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4579 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4583 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4733 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5075 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5079 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7084 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7726 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7729 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9780 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10777 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10783 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12953 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14607 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 14613 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14036 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16047 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16051 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16286 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18799 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 18804 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19841 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23032 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 23036 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21403 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25626 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25631 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24939 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 30344 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 30348 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 415 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 413 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 442 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 557 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 485 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 445 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 483 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 611 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 707 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 542 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 445 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 418 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 418 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 446 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 478 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 455 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 465 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 456 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 466 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 475 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 439 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 439 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 560 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 610 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 417 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 586 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 666 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 519 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 444 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 55043 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 55047 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 868 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 876 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 883 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 857 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 899 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4576 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 4580 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1441 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1411 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2987 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 2991 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1771 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1854 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1857 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2297 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2420 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2424 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2644 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2884 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2887 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3295 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3475 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3478 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3801 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4105 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4109 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4091 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4375 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4379 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4550 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5014 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5026 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6842 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7500 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7509 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9349 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10266 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10270 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11418 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 12774 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 12777 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13970 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 15932 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 15936 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16859 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19650 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19654 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19944 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23419 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 23423 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22507 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 26708 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 26734 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23701 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 28635 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 28640 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 490 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 553 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 455 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 461 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 439 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 439 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 489 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 445 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 603 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 418 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 480 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 504 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 541 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 469 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 571 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 442 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 417 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 33609 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 33612 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 864 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 864 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 867 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 878 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1168 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 866 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 863 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 851 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 883 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 930 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 9385 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 9388 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1379 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1431 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1434 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1805 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1913 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1917 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2421 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2524 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2528 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2717 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2875 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2878 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3356 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3569 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3572 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3933 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4163 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4167 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4075 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4338 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4341 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5048 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5348 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5352 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7010 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7580 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7584 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9404 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10345 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10349 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11395 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11031 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25190 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 25195 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14031 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16074 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16079 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 17019 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19568 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19573 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19726 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23297 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 23301 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21434 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25773 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25778 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23745 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 28625 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 28630 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 443 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 464 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 418 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 552 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 536 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 417 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 483 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 439 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 448 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16062 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 16065 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1001 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1329 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 978 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3484 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 3487 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1447 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1533 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1546 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1807 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2036 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 2041 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2262 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2365 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2368 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2903 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3064 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 3067 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3036 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3225 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3228 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3620 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3858 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 3861 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4120 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4370 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4373 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4561 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4870 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 4876 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6897 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7491 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7495 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9739 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10670 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10674 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11780 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13154 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13158 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14537 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16461 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16465 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16785 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19313 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19317 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18968 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22210 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22215 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20789 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24946 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 24951 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23319 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 28171 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 28176 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 443 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 502 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 488 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 447 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 471 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 596 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 456 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 448 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 448 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 534 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 567 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 439 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 443 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 417 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 414 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 520 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 439 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 415 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 519 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 557 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 416 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 456 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 489 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 608 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 418 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 501 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 586 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 448 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 418 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 443 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 508 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 611 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 590 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 55751 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 55754 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 878 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 888 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1853 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 1859 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1893 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2006 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 2014 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1995 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1786 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4005 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 4008 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2466 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2279 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4953 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 4957 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2656 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2791 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2794 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3216 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3518 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3521 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3814 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4034 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4038 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3943 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4191 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4194 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4666 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4943 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 4947 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6743 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7349 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7353 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9531 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10539 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10544 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11830 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13242 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13247 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14075 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16008 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16015 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16249 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18795 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 18799 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19348 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22569 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22573 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20903 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24945 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 24949 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23231 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 28086 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 28090 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 445 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 491 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 552 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 514 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 464 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 439 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 504 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 579 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 473 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 551 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 525 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 414 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 416 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 417 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 444 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 580 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 470 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 455 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 464 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 463 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 456 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 460 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 460 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 456 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 459 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 470 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 459 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 472 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 442 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 490 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 524 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 475 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 453 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 519 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 39163 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 39166 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 916 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 959 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 962 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1296 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1358 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1361 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1773 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1838 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1841 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2532 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2643 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2647 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2660 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2782 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2785 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3339 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3535 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3538 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3589 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3806 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 3810 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4116 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4410 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4415 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4572 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4871 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 4875 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6963 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6838 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14980 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 14984 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8714 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 9665 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 9670 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11807 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13188 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13192 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14323 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16248 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16253 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16821 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19345 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19349 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18842 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22303 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22307 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21631 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25686 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25691 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24175 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29273 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 29278 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 453 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 506 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 646 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 470 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 504 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 674 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 464 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 443 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 444 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 475 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 624 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 480 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 418 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 419 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 444 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21845 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 21848 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 852 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 875 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1085 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 887 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3860 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 3862 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1372 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1428 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1431 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1716 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1899 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3766 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 3770 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2317 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2451 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2454 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2592 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2969 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5852 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 5855 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3118 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3278 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3281 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3849 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4075 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4079 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4170 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4434 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4446 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4529 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4994 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 4997 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7161 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7750 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7753 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9227 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10296 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10304 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11721 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13113 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13117 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13912 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 15877 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 15881 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16477 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19055 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19059 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18815 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21996 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22001 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20794 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24814 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 24818 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23746 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 28433 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 28437 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 444 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 481 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 476 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 420 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7695 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 7698 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 889 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 941 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 944 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1524 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1599 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1602 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1719 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1722 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1835 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1898 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1709 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1744 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1921 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1718 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1684 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1784 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18409 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 18413 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2451 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2570 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2573 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2741 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2895 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2899 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3267 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3459 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3463 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3697 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3921 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 3924 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4207 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4482 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4486 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4642 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4964 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 4971 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7074 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7664 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7667 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8911 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 9812 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 9815 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11070 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 12477 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 12482 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14225 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16134 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16140 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16516 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19149 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19154 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18381 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21750 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 21754 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20610 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24836 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 24841 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24045 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29140 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 29144 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 482 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 459 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 616 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 480 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 435 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 444 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 436 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 489 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 609 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 576 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 416 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 518 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 616 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 488 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20681 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 20684 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 854 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 855 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 857 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 872 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3573 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 3576 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1324 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1757 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3213 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 3216 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1774 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1759 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3696 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 3699 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2297 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2437 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2440 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2657 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2818 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2822 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3134 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3323 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3326 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3889 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4104 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4108 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4161 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4433 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4439 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4475 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4767 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 4771 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6847 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7504 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7508 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9080 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10022 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10025 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11442 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 12828 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 12832 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14390 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16276 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16280 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16230 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19269 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19273 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18590 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22051 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22056 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21514 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25723 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25727 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23189 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 28115 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 28123 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 430 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 421 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 441 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 417 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 433 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 431 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 461 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 449 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 452 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 9439 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 9442 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 866 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 877 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1819 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 1822 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1304 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1375 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1338 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1317 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5606 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 5610 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1761 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1846 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1849 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2376 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2490 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2494 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2804 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2953 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2956 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3318 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3534 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3546 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3973 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4262 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4266 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4189 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4441 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4445 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4965 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5280 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5283 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7260 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7846 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7850 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9101 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10045 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10048 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11152 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 12664 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 12668 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13817 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14628 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 32480 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 32484 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 17197 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19707 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19711 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19407 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22614 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22619 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21935 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 26775 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 26781 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24760 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29976 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 29981 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 418 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 434 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 437 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 426 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 422 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 424 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 444 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 429 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 490 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 628 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 423 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 440 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8361 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 8364 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 885 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 841 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 867 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 890 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3682 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 3692 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1527 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1590 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 1593 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1764 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1838 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1841 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2341 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2462 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2465 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2752 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2892 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2896 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3131 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3318 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3322 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3937 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4172 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 4176 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4102 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4400 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4404 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4602 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4918 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 4921 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7065 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7650 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7654 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9135 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10465 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10470 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11776 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13184 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13193 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14116 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16206 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16212 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16951 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19578 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 19582 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21715 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25120 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 25128 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22253 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 26444 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 26466 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24766 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29782 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 29787 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 454 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 509 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1493 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 1496 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 905 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 943 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 946 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1311 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1293 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1420 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4226 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 4229 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1850 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1950 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1954 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2190 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2293 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2296 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2740 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2883 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 2887 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3184 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3365 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3369 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3569 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3806 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 3814 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4119 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4361 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4364 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4481 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4808 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 4812 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6748 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7358 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7362 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9385 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10337 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10342 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11089 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 12569 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 12573 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14985 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16959 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 16964 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 15755 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18327 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 18332 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19400 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23597 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 23602 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21033 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 25182 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 25191 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 28602 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 33774 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 33779 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 533 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 455 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 438 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 425 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 432 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 428 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 470 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 451 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 485 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 469 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 509 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 660 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 464 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 463 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 427 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 491 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 561 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 764 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 9685 microseconds
+Erdos-Renyi Graph:
+  Vertices: 10, Edges: 24, Path length: 8
+  Contains colorful path: true
+  Time taken: 9690 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 996 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 992 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1091 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 885 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 865 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 848 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 969 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7274 microseconds
+Erdos-Renyi Graph:
+  Vertices: 20, Edges: 54, Path length: 8
+  Contains colorful path: true
+  Time taken: 7278 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1574 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1448 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3330 microseconds
+Erdos-Renyi Graph:
+  Vertices: 30, Edges: 84, Path length: 8
+  Contains colorful path: true
+  Time taken: 3340 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1828 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1934 microseconds
+Erdos-Renyi Graph:
+  Vertices: 40, Edges: 114, Path length: 8
+  Contains colorful path: true
+  Time taken: 1938 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2341 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2660 microseconds
+Erdos-Renyi Graph:
+  Vertices: 50, Edges: 144, Path length: 8
+  Contains colorful path: true
+  Time taken: 2679 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3288 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3556 microseconds
+Erdos-Renyi Graph:
+  Vertices: 60, Edges: 174, Path length: 8
+  Contains colorful path: true
+  Time taken: 3563 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3771 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3987 microseconds
+Erdos-Renyi Graph:
+  Vertices: 70, Edges: 204, Path length: 8
+  Contains colorful path: true
+  Time taken: 3992 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5323 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5738 microseconds
+Erdos-Renyi Graph:
+  Vertices: 80, Edges: 234, Path length: 8
+  Contains colorful path: true
+  Time taken: 5748 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4602 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4898 microseconds
+Erdos-Renyi Graph:
+  Vertices: 90, Edges: 264, Path length: 8
+  Contains colorful path: true
+  Time taken: 4903 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4812 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5144 microseconds
+Erdos-Renyi Graph:
+  Vertices: 100, Edges: 294, Path length: 8
+  Contains colorful path: true
+  Time taken: 5149 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7095 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7704 microseconds
+Erdos-Renyi Graph:
+  Vertices: 150, Edges: 444, Path length: 8
+  Contains colorful path: true
+  Time taken: 7707 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9540 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 10527 microseconds
+Erdos-Renyi Graph:
+  Vertices: 200, Edges: 594, Path length: 8
+  Contains colorful path: true
+  Time taken: 10531 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12284 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13727 microseconds
+Erdos-Renyi Graph:
+  Vertices: 250, Edges: 744, Path length: 8
+  Contains colorful path: true
+  Time taken: 13732 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13867 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 15745 microseconds
+Erdos-Renyi Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 15749 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 15743 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18322 microseconds
+Erdos-Renyi Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 18327 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19240 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22530 microseconds
+Erdos-Renyi Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 22534 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20657 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24703 microseconds
+Erdos-Renyi Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 24713 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24468 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29554 microseconds
+Erdos-Renyi Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 29559 microseconds
+

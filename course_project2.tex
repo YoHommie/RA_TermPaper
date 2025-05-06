@@ -1,0 +1,230 @@
+% \documentclass{article}
+% \usepackage{amsmath, amssymb, graphicx, hyperref}
+% \usepackage{cite}
+% \usepackage{fancyhdr} % For custom headers and footers
+% \usepackage{geometry}
+% \geometry{a4paper, margin=1in}
+
+% \title{Implementation and Empirical Analysis of the Color-Coding Algorithm for Subgraph Detection}
+% \author{}
+% \date{}
+
+% % Custom header setup
+% \pagestyle{fancy}
+% \fancyhf{}
+% \fancyhead[L]{\textbf{CS6170} :Randomized Algorithms}
+% \fancyhead[R]{\textbf{Project Proposal}}
+% \fancyfoot[C]{\thepage}
+
+% \begin{document}
+
+
+% \maketitle
+
+% \begin{abstract}
+% This project implements the color-coding technique introduced by Alon, Yuster, and Zwick \cite{alon1995color} for detecting small subgraphs in large graphs. We focus on practical implementation of both randomized and derandomized variants, benchmarking their performance against theoretical bounds. Experimental evaluation will analyze runtime scaling on worst-case inputs (e.g., sparse graphs with long paths) and naturally distributed graphs (e.g., Erd\H{o}s-R\'enyi, planar). The project aims to identify practical optimizations and validate theoretical complexity claims, bridging the gap between algorithmic theory and real-world performance.
+% \end{abstract}
+
+% \section{Technical Background}
+% The color-coding method \cite{alon1995color} uses randomized vertex coloring to simplify subgraph detection:
+% \begin{itemize}
+%     \item \textbf{Core Mechanism:} Assign colors from \( \{1,\dots,k\} \) to vertices. A subgraph is "colorful" if all \( k \) vertices have distinct colors, enabling efficient detection via dynamic programming (\( O(2^{O(k)} \cdot E) \) time for directed graphs) \cite[\S3]{alon1995color}.
+%     \item \textbf{Derandomization:} Replace probabilistic coloring with \( k \)-perfect hash families, incurring logarithmic overhead (\( O(2^{O(k)} \cdot V^\omega \log V) \) time for cycles) \cite[\S4]{alon1995color}.
+%     \item \textbf{Theoretical Guarantees:} For planar/minor-closed graphs, cycles of length \( k \) can be detected in \( O(V) \) expected time \cite[\S5]{alon1995color}.
+% \end{itemize}
+% This project will test these theoretical claims through systematic implementation and benchmarking.
+
+% \section{Implementation Objectives}
+% \subsection{Algorithm Variants}
+% \begin{itemize}
+%     \item \textbf{Randomized Path/Cycle Detection}
+%     \begin{itemize}
+%         \item Implement dynamic programming for colorful path detection \cite[Lemma 3.1]{alon1995color}.
+%         \item Optimize memory usage for storing color sets (\( O(k \cdot 2^k \cdot V) \) space).
+%     \end{itemize}
+%     \item \textbf{Derandomized Version}
+%     \begin{itemize}
+%         \item Integrate explicit \( k \)-perfect hash families using Schmidt-Siegel constructions \cite{schmidt1990spatial}.
+%         \item Precompute hash functions to replace random color sampling.
+%     \end{itemize}
+%     \item \textbf{Generalization to Bounded Tree-Width Subgraphs}
+%     \begin{itemize}
+%         \item Extend implementation to handle subgraphs with tree-width \( t \) (\( O(2^{O(k)} \cdot V^{t+1}) \) time) \cite[\S6]{alon1995color}.
+%     \end{itemize}
+% \end{itemize}
+
+% \subsection{Performance Targets}
+% \begin{itemize}
+%     \item Achieve $<$10\% deviation from theoretical \( 2^{O(k)} \) scaling for \( k \leq 15 \).
+%     \item Reduce hidden constants in \( O(2^{O(k)} \cdot V^\omega) \) through cache-aware DP table traversal.
+% \end{itemize}
+
+% \section{Experimental Methodology}
+% \subsection{Graph Generation}
+% \begin{itemize}
+%     \item \textbf{Worst-Case Inputs:} Sparse graphs with maximum path lengths (using recursive backedge-limited DFS).
+%     \item \textbf{Natural Distributions:}
+%     \begin{itemize}
+%         \item Erd\H{o}s-R\'enyi (\( G(n,p) \) with \( p = \Theta(1/n) \)).
+%         \item Planar graphs via Delaunay triangulation.
+%         \item Power-law networks (Barab\'asi-Albert model).
+%     \end{itemize}
+% \end{itemize}
+
+% \subsection{Benchmarking Framework}
+% \textbf{Runtime Metrics}
+% \begin{itemize}
+%     \item Measure \( T(k,V) \) for \( k \in \{5,10,15\} \), \( V \in \{10^3,10^4,10^5\} \).
+%     \item Profile memory usage vs. theoretical bounds (\( O(k \cdot 2^k \cdot V) \)).
+% \end{itemize}
+% \textbf{Statistical Analysis}
+% \begin{itemize}
+%     \item Fit empirical runtimes to \( c \cdot 2^{a k} \cdot V^b \) using nonlinear regression.
+%     \item Compare derived constants \( a,b,c \) against theoretical predictions \cite[\S3-4]{alon1995color}.
+% \end{itemize}
+% \textbf{Heuristic Validation}
+% \begin{itemize}
+%     \item Test early termination for dense subgraphs (color saturation thresholding).
+%     \item Evaluate adaptive color sampling to reduce iterations.
+% \end{itemize}
+
+% \section{Expected Contributions}
+% \textbf{Implementation Artifacts}
+% \begin{itemize}
+%     \item Open-source C++/Python codebase with modular DP components.
+%     \item Precomputed hash families for \( k \leq 20 \).
+% \end{itemize}
+% \textbf{Empirical Insights}
+% \begin{itemize}
+%     \item Quantify gap between \( O(2^{O(k)}) \) theory and practice (e.g., \( O(2^{3.2k}) \) observed vs. \( O(2^{2.8k}) \) predicted).
+%     \item Characterize input classes where derandomization overhead exceeds probabilistic gains.
+% \end{itemize}
+% \textbf{Practical Guidelines}
+% \begin{itemize}
+%     \item Thresholds for preferring randomized vs. derandomized variants based on \( k/V \).
+%     \item Cache optimization strategies for DP table traversal.
+% \end{itemize}
+
+% \bibliographystyle{plain}
+% \begin{thebibliography}{9}
+%     \bibitem{alon1995color} N. Alon, R. Yuster, and U. Zwick, "Color-Coding," \textit{Journal of the ACM}, vol. 42, no. 4, pp. 844–856, 1995.
+%     \bibitem{schmidt1990spatial} J. P. Schmidt and A. Siegel, "The spatial complexity of oblivious k-probe hash functions," \textit{SIAM Journal on Computing}, vol. 19, no. 5, pp. 775–786, 1990.
+% \end{thebibliography}
+
+% \end{document}
+
+
+\documentclass{article}
+\usepackage{amsmath, amssymb, graphicx, hyperref, cite, fancyhdr, geometry}
+\geometry{a4paper, margin=1in}
+
+\title{Implementation and Empirical Analysis of the Color-Coding Algorithm for Subgraph Detection}
+\author{}
+\date{\today}
+
+% Custom header setup
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textbf{CS6170} : Randomized Algorithms}
+\fancyhead[R]{\textbf{Project Proposal}}
+\fancyfoot[C]{\thepage}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This project implements the color-coding technique introduced by Alon, Yuster, and Zwick \cite{alon1995color} for detecting small subgraphs in large graphs. We focus on practical implementations of both the randomized and derandomized variants, benchmarking their performance against theoretical bounds. Experimental evaluation will analyze runtime scaling on worst-case inputs (e.g., sparse graphs with long paths) and naturally distributed graphs (e.g., Erd\H{o}s-R\'enyi, planar). The project aims to identify practical optimizations and validate theoretical complexity claims, thereby bridging the gap between algorithmic theory and real-world performance.
+\end{abstract}
+
+\section{Technical Background}
+The color-coding method \cite{alon1995color} is a randomized framework designed to simplify subgraph detection in large graphs. Its main ideas are as follows:
+\begin{itemize}
+    \item \textbf{Core Mechanism:} Vertices in a graph \(G = (V, E)\) are randomly assigned colors from the set \(\{1,\dots,k\}\). A subgraph is termed \emph{colorful} if every vertex within it receives a distinct color. This property allows the use of dynamic programming to detect colorful paths and cycles. In particular, Theorem 3.3 in \cite{alon1995color} shows that if \(G\) contains a simple (colorful) path of length \(k-1\), then it can be found in \(2^{O(k)}\cdot V\) expected time for undirected graphs and \(2^{O(k)}\cdot E\) expected time for directed graphs.
+    
+    \item \textbf{Derandomization:} The randomized algorithm can be made deterministic by replacing the random color assignments with a \(k\)-perfect family of hash functions (see Schmidt and Siegel \cite{schmidt1990spatial}). This derandomization adds only an extra \(O(\log V)\) factor in the worst-case running time.
+    
+    \item \textbf{Extensions:} Beyond paths and cycles, the method extends to detecting any subgraph with bounded tree-width. In such cases (see Theorem 6.3 in \cite{alon1995color}), if the subgraph \(H\) has \(k\) vertices and tree-width \(t\), then a copy of \(H\) in \(G\) can be found in \(O(2^{O(k)}\cdot V^{t+1})\) expected time.
+    
+    \item \textbf{Alternative Approaches:} The original work also describes an alternative based on \emph{random orientations} (Section 2 in \cite{alon1995color}), which provides simple algorithms with competitive runtime bounds.
+\end{itemize}
+
+\section{Implementation Objectives}
+\subsection{Algorithm Variants}
+\begin{itemize}
+    \item \textbf{Randomized Path and Cycle Detection}
+    \begin{itemize}
+        \item Implement the dynamic programming approach to detect colorful paths as described in Lemma 3.1 of \cite{alon1995color}. For undirected graphs, the algorithm should run in \(2^{O(k)} \cdot V\) expected time; for directed graphs, in \(2^{O(k)} \cdot E\) expected time.
+        \item Optimize the memory usage when storing dynamic programming tables, targeting the theoretical space complexity of \(O(k \cdot 2^k \cdot V)\).
+    \end{itemize}
+    \item \textbf{Derandomized Version}
+    \begin{itemize}
+        \item Replace random color assignments with a precomputed \(k\)-perfect family of hash functions using Schmidt-Siegel constructions \cite{schmidt1990spatial}. 
+        \item Note that the derandomized version incurs an additional \(O(\log V)\) factor in its worst-case runtime.
+    \end{itemize}
+    \item \textbf{Generalization to Bounded Tree-Width Subgraphs}
+    \begin{itemize}
+        \item Extend the implementation to detect subgraphs with bounded tree-width (e.g., forests or series-parallel graphs) using a similar dynamic programming approach. The expected runtime should be on the order of \(O(2^{O(k)}\cdot V^{t+1})\) for a subgraph of tree-width \(t\).
+    \end{itemize}
+    \item \textbf{Alternative Method: Random Orientations}
+    \begin{itemize}
+        \item Optionally implement the random orientations method (Section 2 in \cite{alon1995color}) as an alternative approach. This method directs edges based on a random permutation and then finds simple paths or cycles in the resulting acyclic graph.
+    \end{itemize}
+\end{itemize}
+
+\subsection{Performance Targets}
+\begin{itemize}
+    \item Achieve empirical runtime scaling that deviates by less than 10\% from the theoretical \(2^{O(k)}\) factor for \(k\leq15\).
+    \item Optimize cache usage during dynamic programming table traversal to reduce hidden constant factors.
+\end{itemize}
+
+\section{Experimental Methodology}
+\subsection{Graph Generation}
+\begin{itemize}
+    \item \textbf{Worst-Case Inputs:} Generate sparse graphs with long paths by carefully controlling the number of edges (e.g., through backedge-limited depth-first search).
+    \item \textbf{Natural Distributions:}
+    \begin{itemize}
+        \item \textbf{Erd\H{o}s-R\'enyi Graphs:} Generate graphs \(G(n,p)\) with \(p=\Theta(1/n)\).
+        \item \textbf{Planar Graphs:} Use Delaunay triangulation or other planar graph generation methods.
+        \item \textbf{Power-law Networks:} Generate graphs based on the Barab\'asi-Albert model.
+    \end{itemize}
+\end{itemize}
+
+\subsection{Benchmarking Framework}
+\begin{itemize}
+    \item \textbf{Runtime Metrics:} Measure the running time \(T(k,V)\) for various combinations of \(k\) (e.g., 5, 10, 15) and graph sizes \(V\) (e.g., \(10^3\), \(10^4\), \(10^5\)).
+    \item \textbf{Memory Profiling:} Compare the empirical memory usage with the theoretical bound \(O(k \cdot 2^k \cdot V)\).
+    \item \textbf{Statistical Analysis:} Fit the empirical runtimes to models of the form \(c \cdot 2^{a k} \cdot V^b\) using nonlinear regression. Compare the fitted constants \(a\), \(b\), and \(c\) with theoretical predictions.
+    \item \textbf{Heuristic Validation:} Experiment with early termination and adaptive color sampling techniques to explore additional practical optimizations.
+\end{itemize}
+
+\section{Expected Contributions}
+\subsection{Implementation Artifacts}
+\begin{itemize}
+    \item A modular, open-source codebase (in C++ and/or Python with optimized libraries) implementing both randomized and derandomized color-coding algorithms.
+    \item Precomputed \(k\)-perfect hash families for values of \(k\) up to at least 20.
+\end{itemize}
+
+\subsection{Empirical Insights}
+\begin{itemize}
+    \item Quantitative analysis comparing the \(2^{O(k)}\) theoretical bounds with observed runtimes (for example, whether \(O(2^{3.2k})\) is observed versus \(O(2^{2.8k})\) as predicted).
+    \item Identification of graph classes (e.g., planar, power-law) where the derandomization overhead outweighs the benefits of randomization.
+\end{itemize}
+
+\subsection{Practical Guidelines}
+\begin{itemize}
+    \item Recommendations on thresholds for preferring the randomized versus derandomized variants based on graph size and subgraph parameters.
+    \item Cache optimization strategies for dynamic programming table traversal.
+\end{itemize}
+
+\section{Conclusion}
+This project will bridge the gap between theoretical algorithm design and practical performance for subgraph detection using the color-coding method. By implementing both the randomized and derandomized approaches—and possibly an alternative random orientations method—we aim to validate the theoretical complexity claims of Alon et al. \cite{alon1995color} while uncovering practical insights and optimizations. Empirical evaluations will provide a deeper understanding of how graph structure, density, and input size affect the performance of these algorithms.
+
+\bibliographystyle{plain}
+\begin{thebibliography}{9}
+    \bibitem{alon1995color} N. Alon, R. Yuster, and U. Zwick, "Color-Coding," \textit{Journal of the ACM}, vol. 42, no. 4, pp. 844–856, 1995.
+    \bibitem{schmidt1990spatial} J. P. Schmidt and A. Siegel, "The spatial complexity of oblivious k-probe hash functions," \textit{SIAM Journal on Computing}, vol. 19, no. 5, pp. 775–786, 1990.
+\end{thebibliography}
+
+\end{document}
+

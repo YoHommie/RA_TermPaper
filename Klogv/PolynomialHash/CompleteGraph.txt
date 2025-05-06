@@ -1,0 +1,2900 @@
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 77 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 86 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 102 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 122 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 131 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 204 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 218 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 221 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 701 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 717 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 720 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1012 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1034 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1038 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1497 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1518 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1521 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4128 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4165 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4169 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5249 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5275 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5278 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6787 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6841 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6846 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7950 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7984 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 7987 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 37145 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 37210 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 37215 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 63945 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 64027 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 64031 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 132546 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 132694 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 132702 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 288751 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 288885 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 288889 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 389869 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 389995 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 390000 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 509407 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 509621 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 509626 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 637726 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 637883 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 637888 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 807225 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 807389 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 807394 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 35 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 39 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 94 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 103 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 106 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 196 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 209 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 212 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 417 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 652 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1098 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 1101 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1047 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1064 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1068 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1696 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1722 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1726 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4185 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4255 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4262 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5257 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5287 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5290 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6781 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6819 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6823 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7856 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7886 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 7889 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 36704 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36768 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 36772 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 67699 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 67788 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 67792 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 102640 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 102741 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 102745 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 300605 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 300724 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 300729 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 407881 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 408003 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 408007 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 525883 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 526028 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 526033 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 710333 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 710488 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 710493 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 817368 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 817541 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 817545 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 42 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 123 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 141 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 145 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 118 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 199 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 340 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 343 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 733 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 759 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 762 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1113 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1146 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1149 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1415 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1447 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1451 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4066 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4090 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4093 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5407 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5542 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5552 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6530 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6559 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6562 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8078 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8119 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8123 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 36334 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36399 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 36404 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 62962 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 63043 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 63047 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 98434 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 98527 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 98531 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 289292 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 289408 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 289412 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 402095 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 402212 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 402217 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 513600 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 513755 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 513760 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 648159 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 648314 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 648319 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 819010 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 819179 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 819184 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 33 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 68 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 73 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 143 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 160 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 165 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 254 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 273 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 278 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 984 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1009 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 1014 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1541 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1574 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1581 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1986 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2066 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 2086 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5487 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5540 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 5545 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5403 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5456 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5460 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7055 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7102 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 7106 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8197 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8244 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8250 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 37016 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 37093 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 37098 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 62517 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 62596 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 62600 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 97898 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 97996 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 98001 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 304385 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 304496 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 304501 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 406176 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 406299 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 406303 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 520868 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 521008 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 521013 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 645301 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 645456 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 645461 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 805265 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 805436 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 805441 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 17 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 34 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 38 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 99 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 110 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 115 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 183 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 195 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 198 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 656 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 671 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 674 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1020 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1037 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1041 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1538 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1580 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1585 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4077 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4101 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4105 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5179 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5205 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5208 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6832 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6867 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6871 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7861 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7892 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 7895 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 43925 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 44032 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 44045 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 68450 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 68559 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 68563 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 98433 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 98528 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 98532 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 299417 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 299529 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 299533 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 396687 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 396820 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 396828 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 558460 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 558599 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 558603 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 656577 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 656733 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 656738 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 779639 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 779807 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 779812 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 34 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 38 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 100 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 109 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 112 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 204 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 217 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 220 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 888 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 944 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 948 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1104 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1148 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1151 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1459 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1479 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1482 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4500 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4531 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4534 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6084 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6130 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 6134 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6604 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6637 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6640 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9147 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 9193 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 9197 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 38919 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 38986 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 38991 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 64232 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 64314 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 64318 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 96256 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 96357 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 96362 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 293194 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 293329 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 293333 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 393403 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 393586 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 393608 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 520910 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 521055 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 521060 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 653441 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 653598 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 653603 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 796540 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 796739 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 796744 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 39 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 107 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 116 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 119 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 199 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 246 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 252 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 695 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 736 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 739 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1371 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1544 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1554 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1453 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1482 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1485 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4067 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4093 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4096 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5407 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5575 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5618 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6554 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6601 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6605 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 9013 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 9073 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 9079 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 37259 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 37331 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 37335 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 64911 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 64998 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 65002 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 104718 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 104819 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 104826 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 300524 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 300660 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 300665 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 395635 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 395759 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 395763 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 522452 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 522612 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 522617 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 640585 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 640762 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 640767 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 803607 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 803844 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 803848 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 61 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 64 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 100 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 109 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 111 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 184 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 196 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 199 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 687 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 702 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 705 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 604 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1161 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1800 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1803 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1421 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1441 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1444 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4932 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4972 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4976 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5133 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5159 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5162 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6939 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6987 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 7035 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7848 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7880 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 7883 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 40005 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 40082 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 40087 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 63771 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 63853 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 63858 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 97440 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 97537 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 97542 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 298369 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 298482 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 298486 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 444586 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 444715 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 444720 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 506990 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 507139 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 507145 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 646365 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 646521 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 646525 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 789546 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 789717 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 789721 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 15 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 17 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 55 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 58 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 98 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 107 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 109 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 207 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 220 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 223 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 706 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 721 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 725 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 990 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1014 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1018 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1416 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1449 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1452 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4634 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4751 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4770 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5239 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5289 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5293 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6760 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6808 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6813 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8028 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8075 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8079 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 36378 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36449 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 36453 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 63161 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 63243 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 63247 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 96929 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 97016 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 97020 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 283558 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 283676 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 283680 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 390973 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 391097 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 391102 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 511880 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 512023 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 512028 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 644907 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 645054 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 645058 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 779106 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 779271 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 779276 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 15 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 80 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 82 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 68 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 65 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 98 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 254 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 257 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 200 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 218 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 224 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 672 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 687 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 690 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1010 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1027 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1031 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1428 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1448 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1451 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4196 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4244 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4249 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5296 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5335 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5339 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6801 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6835 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6839 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7711 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7741 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 7744 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 36345 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36409 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 36413 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 63328 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 63406 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 63410 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 98542 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 98655 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 98660 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 287711 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 287823 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 287827 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 393410 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 393537 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 393541 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 508322 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 508463 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 508467 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 646001 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 646158 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 646163 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 788956 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 789130 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 789163 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 34 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 37 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 98 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 109 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 112 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 197 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 208 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 211 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 685 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 700 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 703 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1479 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1529 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1534 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1588 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1628 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1632 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4043 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4067 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4070 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5408 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5438 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5441 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6629 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6660 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6664 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8302 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8339 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8343 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 36464 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36536 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 36541 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 64212 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 64293 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 64297 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 98584 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 98677 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 98681 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 289614 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 289729 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 289734 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 390664 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 390788 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 390792 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 504123 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 504280 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 504286 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 647727 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 647881 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 647885 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 783499 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 783666 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 783671 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 15 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 51 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 54 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 68 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 103 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 190 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 193 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 191 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 202 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 205 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 766 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 786 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 790 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1163 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1192 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1197 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1410 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1430 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1433 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3990 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4013 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4016 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5701 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5735 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5739 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6493 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6523 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6526 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8407 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8454 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8461 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 37070 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 37137 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 37141 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 62925 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 63005 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 63009 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 105673 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 105771 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 105776 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 287307 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 287419 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 287423 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 390659 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 390792 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 390797 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 509202 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 509346 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 509351 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 644260 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 644422 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 644427 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 779307 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 779478 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 779482 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 37 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 40 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 181 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 194 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 197 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 195 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 213 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 216 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 707 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 724 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 732 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1060 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1078 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1081 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1474 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1494 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1497 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4041 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4065 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4069 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5350 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5398 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5402 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6521 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6554 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6557 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8262 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8299 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8303 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 37402 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 37469 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 37474 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 63701 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 63786 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 63790 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 99608 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 99704 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 99709 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 286605 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 286720 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 286725 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 388174 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 388302 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 388306 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 536424 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 536569 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 536574 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 686222 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 686377 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 686382 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 787046 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 787219 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 787223 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 74 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 77 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 102 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 109 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 112 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 140 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 198 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 362 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 365 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 701 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 719 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 722 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1047 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1065 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1068 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1475 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1495 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1498 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4632 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4713 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4718 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5145 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5172 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5175 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6833 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6878 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6882 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7977 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8008 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8016 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 36715 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36786 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 36790 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 65926 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 66011 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 66015 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 97631 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 97722 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 97726 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 289099 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 289210 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 289214 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 402067 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 402195 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 402199 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 517807 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 517949 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 517953 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 644026 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 644183 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 644188 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 779546 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 779713 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 779718 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 17 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 39 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 100 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 109 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 111 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 192 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 203 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 206 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 685 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 700 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 704 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1054 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1071 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1075 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1400 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1419 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1422 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4640 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4684 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4688 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5214 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5240 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5243 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7281 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7331 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 7335 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8094 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8125 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8128 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 37116 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 37187 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 37191 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 64999 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 65084 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 65088 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 123898 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 124016 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 124023 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 341880 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 341998 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 342002 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 402603 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 402739 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 402744 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 518303 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 518439 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 518443 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 680454 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 680614 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 680621 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 830797 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 830965 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 830970 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 52 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 56 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 73 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 107 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 205 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 209 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 194 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 204 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 207 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 718 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 737 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 742 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1236 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1268 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1274 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1882 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1924 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1928 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4033 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4062 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4066 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5166 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5192 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5195 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7081 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7125 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 7129 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8848 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8908 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8911 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 35584 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 35645 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 35651 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 67630 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 67721 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 67725 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 99692 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 99784 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 99789 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 314893 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 315010 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 315014 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 400577 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 400703 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 400708 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 531520 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 531701 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 531706 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 650035 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 650190 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 650195 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 875035 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 875212 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 875217 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 15 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 17 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 56 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 59 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 106 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 116 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 119 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 212 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 225 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 228 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 738 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 755 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 758 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1121 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1144 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1149 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1856 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1971 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1982 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4422 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4468 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4472 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3044 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5705 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8824 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 8828 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7051 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7102 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 7106 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8670 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8731 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8735 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 37097 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 37167 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 37171 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 65720 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 65801 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 65805 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 97927 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 98022 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 98026 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 304161 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 304275 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 304279 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 404644 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 404782 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 404788 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 511716 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 511910 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 511916 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 648273 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 648431 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 648439 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 784081 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 784245 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 784250 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 35 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 38 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 98 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 108 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 111 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 192 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 205 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 208 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 682 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 697 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 700 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1023 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1040 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1043 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1435 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1454 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1457 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4431 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4473 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4477 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4997 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5027 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5030 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6652 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6689 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6693 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8817 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8854 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8858 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 36897 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36957 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 36961 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 61627 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 61698 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 61702 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 96556 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 96650 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 96654 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 280823 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 280936 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 280939 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 382820 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 382942 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 382947 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 488445 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 488586 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 488591 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 637739 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 637898 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 637903 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 787460 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 787628 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 787633 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 45 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 49 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 100 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 110 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 113 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 196 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 209 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 212 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 674 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 690 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 693 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1057 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1084 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 1088 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1605 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1660 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1664 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4152 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4180 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 4184 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5400 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5433 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5437 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 7052 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 7210 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 7221 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8153 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8203 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8207 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 36620 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36690 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 36695 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 63591 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 63670 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 63674 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 51284 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 99223 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 150701 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 150706 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 304461 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 304850 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 304895 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 403026 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 403154 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 403158 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 510904 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 511062 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 511067 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 648828 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 649026 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 649032 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 783773 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 783942 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 783947 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 65 microseconds
+Complete Graph:
+  Vertices: 10, Edges: 90, Path length: 3
+  Contains colorful path: true
+  Time taken: 68 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 97 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 107 microseconds
+Complete Graph:
+  Vertices: 20, Edges: 380, Path length: 4
+  Contains colorful path: true
+  Time taken: 110 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 199 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 212 microseconds
+Complete Graph:
+  Vertices: 30, Edges: 870, Path length: 4
+  Contains colorful path: true
+  Time taken: 215 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 408 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 683 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1122 microseconds
+Complete Graph:
+  Vertices: 40, Edges: 1560, Path length: 5
+  Contains colorful path: true
+  Time taken: 1125 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 951 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 969 microseconds
+Complete Graph:
+  Vertices: 50, Edges: 2450, Path length: 5
+  Contains colorful path: true
+  Time taken: 972 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1451 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1470 microseconds
+Complete Graph:
+  Vertices: 60, Edges: 3540, Path length: 5
+  Contains colorful path: true
+  Time taken: 1473 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2542 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4225 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6833 microseconds
+Complete Graph:
+  Vertices: 70, Edges: 4830, Path length: 6
+  Contains colorful path: true
+  Time taken: 6838 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5301 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5342 microseconds
+Complete Graph:
+  Vertices: 80, Edges: 6320, Path length: 6
+  Contains colorful path: true
+  Time taken: 5345 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6564 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6614 microseconds
+Complete Graph:
+  Vertices: 90, Edges: 8010, Path length: 6
+  Contains colorful path: true
+  Time taken: 6617 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8006 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8051 microseconds
+Complete Graph:
+  Vertices: 100, Edges: 9900, Path length: 6
+  Contains colorful path: true
+  Time taken: 8055 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 36853 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 36920 microseconds
+Complete Graph:
+  Vertices: 150, Edges: 22350, Path length: 7
+  Contains colorful path: true
+  Time taken: 36924 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 63165 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 63253 microseconds
+Complete Graph:
+  Vertices: 200, Edges: 39800, Path length: 7
+  Contains colorful path: true
+  Time taken: 63257 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 97573 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 97667 microseconds
+Complete Graph:
+  Vertices: 250, Edges: 62250, Path length: 7
+  Contains colorful path: true
+  Time taken: 97671 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 286596 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 286707 microseconds
+Complete Graph:
+  Vertices: 300, Edges: 89700, Path length: 8
+  Contains colorful path: true
+  Time taken: 286712 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 391722 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 391843 microseconds
+Complete Graph:
+  Vertices: 350, Edges: 122150, Path length: 8
+  Contains colorful path: true
+  Time taken: 391847 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 515707 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 515856 microseconds
+Complete Graph:
+  Vertices: 400, Edges: 159600, Path length: 8
+  Contains colorful path: true
+  Time taken: 515861 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 659245 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 659405 microseconds
+Complete Graph:
+  Vertices: 450, Edges: 202050, Path length: 8
+  Contains colorful path: true
+  Time taken: 659410 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 799507 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 799676 microseconds
+Complete Graph:
+  Vertices: 500, Edges: 249500, Path length: 8
+  Contains colorful path: true
+  Time taken: 799680 microseconds
+

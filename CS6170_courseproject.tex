@@ -1,0 +1,230 @@
+% % \documentclass{article}
+% % \usepackage{amsmath, amssymb}
+% % \usepackage{graphicx}
+% % \usepackage{hyperref}
+
+% % \title{Color-Coding Method for Subgraph Detection}
+% % \author{}
+% % \date{}
+
+% % \begin{document}
+
+% % \maketitle
+
+% \documentclass{article}
+% \usepackage{graphicx}
+% \usepackage{hyperref}
+% \usepackage{amsmath}
+% \usepackage{amssymb}
+% \usepackage{geometry}
+% \usepackage{fancyhdr} % For custom headers and footers
+% \geometry{a4paper, margin=1in}
+
+% \title{Color-Coding Method for Subgraph Detection}
+% \author{}
+% \date{\today}
+
+% % Custom header setup
+% \pagestyle{fancy}
+% \fancyhf{}
+% \fancyhead[L]{\textbf{CS6170} :Randomized Algorithms}
+% \fancyhead[R]{\textbf{Project Proposal}}
+% \fancyfoot[C]{\thepage}
+
+% \begin{document}
+
+% \maketitle
+
+% \begin{abstract}
+%     This project implements the color-coding technique introduced by Alon, Yuster, and Zwick \cite{alon1995color} for detecting small subgraphs in large graphs. We focus on practical implementation of both randomized and derandomized variants, benchmarking their performance against theoretical bounds. Experimental evaluation will analyze runtime scaling on worst-case inputs (e.g., sparse graphs with long paths) and naturally distributed graphs (e.g., Erd\H{o}s-R\'enyi, planar). The project aims to identify practical optimizations and validate theoretical complexity claims, bridging the gap between algorithmic theory and real-world performance.
+% \end{abstract}
+
+% \section{Introduction}
+% The proposed project will explore the color-coding method---a randomized algorithmic framework originally designed for detecting simple paths, cycles, and other small subgraphs in large graphs. The core idea is to randomly assign colors to the vertices of a graph and then search for ``colorful'' substructures (where every vertex in the subgraph receives a distinct color). This method, which can be derandomized using a carefully constructed family of perfect hash functions, has been applied widely in subgraph isomorphism problems and in handling graphs with bounded tree-width. The project aims to implement one or more variants of the color-coding algorithm, benchmark their empirical performance, and compare the experimental results with the theoretical bounds presented in the literature.
+
+% \section{Literature Survey}
+% The project will begin with a detailed review of the seminal paper by Alon, Yuster, and Zwick on color-coding. Key results from the literature include:
+
+% \textbf{Randomized Algorithms}
+% The original approach finds simple paths of a given length in time proportional to $2^{O(k)} \cdot E$ or $2^{O(k)} \cdot V$, depending on the graph type, where $k$ is the number of vertices in the subgraph, and $E$ and $V$ denote the number of edges and vertices, respectively.
+
+% \textbf{Derandomization}
+% Subsequent work shows that by using a $k$-perfect family of hash functions, the randomized steps may be replaced by deterministic procedures with only a small logarithmic overhead.
+
+% \textbf{Extensions}
+% Applications of color-coding extend beyond paths and cycles to subgraphs with bounded tree-width, including applications in bioinformatics for detecting network motifs.
+
+% The survey will include not only the original paper but also follow-up works and experimental analyses available in the literature. The common theme is the challenge of matching theoretical complexity with practical performance and exploring how worst-case versus natural input distributions affect the running time.
+
+% \section{Project Objectives}
+% The goals of the project are as follows:
+
+% \textbf{Implementation}
+% Develop one or more implementations of the color-coding algorithm, focusing on both the randomized and derandomized variants. The implementation will be in a high-performance programming language (such as C++ or Python with optimized libraries).
+
+% \textbf{Experimental Analysis}
+% Conduct experiments to assess how the empirical running times compare with theoretical bounds. The study will include:
+% \begin{itemize}
+%     \item Evaluation on worst-case inputs as well as graphs generated from natural distributions (such as random graphs, sparse graphs, and planar graphs).
+%     \item Analysis of the effect of the parameter $k$ (i.e., the size of the subgraph being searched for) on performance.
+% \end{itemize}
+
+% \textbf{Heuristic Investigation}
+% Use the empirical observations to explore possible heuristics. For example, the experiments may reveal whether certain natural graphs have structure that can be exploited to speed up the search for colorful subgraphs.
+
+% \textbf{Conjecture Development}
+% While new research is not expected, empirical results might support conjectures regarding the relationship between graph structure and the likelihood of successful color-coding, thereby suggesting directions for further study.
+
+% \section{Methodology}
+% To achieve the above objectives, the study will follow these steps:
+
+% \textbf{Algorithm Study}
+% Begin with a comprehensive review of the theoretical foundations of color-coding. Focus on the dynamic programming and recursive techniques used to track colorful subpaths.
+
+% \textbf{Implementation}
+% \begin{itemize}
+%     \item Code the randomized color-coding algorithm for detecting simple paths and cycles.
+%     \item Implement the derandomized version using precomputed $k$-perfect hash families.
+%     \item Modularize the code so that different subgraph detection routines (e.g., for bounded tree-width subgraphs) can be compared.
+% \end{itemize}
+
+% \textbf{Experimental Setup}
+% \begin{itemize}
+%     \item Generate test graphs (including worst-case and naturally distributed graphs).
+%     \item Record running times and register empirical observations against $k$, the number of vertices $V$, and the number of edges $E$.
+%     \item Use statistical analysis tools to compare experimental data with theoretical predictions.
+% \end{itemize}
+
+% \textbf{Analysis}
+% \begin{itemize}
+%     \item Identify discrepancies between expected theoretical performance and real-world performance.
+%     \item Investigate factors such as graph density, degree distribution, and input size.
+%     \item Formulate heuristic approaches that might help improve performance based on the observed behavior.
+% \end{itemize}
+
+% \textbf{Documentation}
+% Record all findings, provide graphs of performance metrics, and discuss any new insights or conjectures that arise from the empirical evaluation.
+
+% \section{Expected Outcomes}
+% By the end of the project, the following are anticipated:
+% \begin{itemize}
+%     \item A robust implementation of both randomized and derandomized color-coding algorithms.
+%     \item A detailed experimental evaluation that summarizes empirical running times and compares them with the theoretical expectations.
+%     \item Insights into the performance of color-coding on different classes of graphs and possible heuristic improvements.
+%     \item A comprehensive report that outlines the implementation details, experimental methodology, results, and conclusions.
+% \end{itemize}
+
+% \section{Conclusion}
+% This project will bridge the gap between theory and practice for the color-coding method in subgraph isomorphism problems. By implementing the key algorithms and performing a rigorous experimental evaluation, the project aims to validate established theoretical bounds while also possibly uncovering practical heuristics for improved performance. Although the project is not expected to produce new theoretical breakthroughs, it will contribute to a deeper practical understanding of color-coding and may suggest interesting directions for future research.
+
+% This proposal serves as the blueprint for the upcoming work, outlining both the technical aspects of implementation and the analytical methods used to study the performance of color-coding algorithms.
+
+% \end{document}
+
+
+\documentclass{article}
+\usepackage{amsmath, amssymb, graphicx, hyperref, cite, fancyhdr, geometry}
+\geometry{a4paper, margin=1in}
+
+\title{Implementation and Empirical Analysis of the Color-Coding Algorithm for Subgraph Detection}
+\author{}
+\date{}
+
+% Custom header setup
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textbf{CS6170} : Randomized Algorithms}
+\fancyhead[R]{\textbf{Project Proposal}}
+\fancyfoot[C]{\thepage}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This project implements the color-coding technique introduced by Alon, Yuster, and Zwick \cite{alon1995color} for detecting small subgraphs in large graphs. We focus on practical implementations of both randomized and derandomized variants, benchmarking their performance against theoretical bounds. Experimental evaluation will analyze runtime scaling on worst-case inputs (e.g., sparse graphs with long paths) and naturally distributed graphs (e.g., Erd\H{o}s-R\'enyi, planar). The project aims to identify practical optimizations and validate theoretical complexity claims, thereby bridging the gap between algorithmic theory and real-world performance.
+\end{abstract}
+
+\section{Technical Background}
+The color-coding method \cite{alon1995color} uses randomized vertex coloring to simplify subgraph detection:
+\begin{itemize}
+    \item \textbf{Core Mechanism:} Vertices of the graph are randomly assigned colors from the set \( \{1,\dots,k\} \). A subgraph is termed \emph{colorful} if all its vertices receive distinct colors. This property allows efficient detection via dynamic programming. In particular, as shown in Theorem 3.3 of \cite{alon1995color}, a colorful path of length \( k-1 \) can be found in \(2^{O(k)} \cdot V\) expected time in undirected graphs and \(2^{O(k)} \cdot E\) expected time in directed graphs 
+    % :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.
+    \item \textbf{Cycle Detection:} Similarly, as per Theorem 3.4 in \cite{alon1995color}, a colorful cycle of size \(k\) can be detected in \(2^{O(k)} \cdot V\) (or \(2^{O(k)} \cdot E\)) expected time.
+    \item \textbf{Derandomization:} The randomized algorithms can be derandomized using a \(k\)-perfect family of hash functions. Constructions based on Schmidt-Siegel \cite{schmidt1990spatial} yield such families with only an extra \(O(\log V)\) factor in the worst-case running time.
+    \item \textbf{Generalization to Bounded Tree-Width:} The method also generalizes to detecting subgraphs with bounded tree-width. For instance, Theorem 6.3 in \cite{alon1995color} shows that for a subgraph with tree-width \(t\), a detection algorithm runs in \(O(2^{O(k)} \cdot V^{t+1})\) time.
+\end{itemize}
+
+\section{Implementation Objectives}
+\subsection{Algorithm Variants}
+\begin{itemize}
+    \item \textbf{Randomized Path/Cycle Detection:}
+    \begin{itemize}
+        \item Implement the dynamic programming routine for finding colorful paths as described in Lemma 3.1 of \cite{alon1995color}.
+        \item Clearly distinguish the bounds: \(2^{O(k)} \cdot V\) for undirected and \(2^{O(k)} \cdot E\) for directed graphs.
+    \end{itemize}
+    \item \textbf{Derandomized Version:}
+    \begin{itemize}
+        \item Incorporate explicit \(k\)-perfect hash families (e.g., via Schmidt-Siegel constructions \cite{schmidt1990spatial}) to replace random color assignments.
+        \item Note that this derandomization adds an extra \(O(\log V)\) factor in worst-case time.
+    \end{itemize}
+    \item \textbf{Generalization to Bounded Tree-Width Subgraphs:}
+    \begin{itemize}
+        \item Extend the implementation to handle subgraphs with bounded tree-width (with runtime \(O(2^{O(k)} \cdot V^{t+1})\), where \(t\) is the tree-width).
+    \end{itemize}
+    \item \textbf{Alternative Approach -- Random Orientations:}
+    \begin{itemize}
+        \item Briefly explore the random orientations method (Section 2 in \cite{alon1995color}) as an alternative technique, which orients edges according to a random permutation and then finds simple paths with competitive runtime.
+    \end{itemize}
+\end{itemize}
+
+\subsection{Performance Targets}
+\begin{itemize}
+    \item Achieve empirical runtimes that deviate by less than 10\% from the theoretical \(2^{O(k)}\) scaling for moderate values of \(k\) (e.g., \(k \leq 15\)).
+    \item Optimize memory usage in the dynamic programming tables (theoretical bound \(O(k \cdot 2^k \cdot V)\)) via cache-aware programming.
+\end{itemize}
+
+\section{Experimental Methodology}
+\subsection{Graph Generation}
+\begin{itemize}
+    \item \textbf{Worst-Case Inputs:} Generate sparse graphs designed to have long paths (e.g., via recursive backedge-limited DFS).
+    \item \textbf{Natural Distributions:}
+    \begin{itemize}
+        \item Erd\H{o}s-R\'enyi graphs \(G(n,p)\) with \(p=\Theta(1/n)\).
+        \item Planar graphs generated via Delaunay triangulation.
+        \item Power-law networks (e.g., using the Barab\'asi-Albert model).
+    \end{itemize}
+\end{itemize}
+
+\subsection{Benchmarking Framework}
+\begin{itemize}
+    \item \textbf{Runtime Metrics:}  
+    \begin{itemize}
+        \item Measure the running time \(T(k,V)\) for various combinations of \(k\) (e.g., 5, 10, 15) and graph sizes \(V\) (e.g., \(10^3\), \(10^4\), \(10^5\)).
+        \item Profile memory consumption against theoretical expectations.
+    \end{itemize}
+    \item \textbf{Statistical Analysis:}  
+    \begin{itemize}
+        \item Fit empirical runtimes to the model \( c \cdot 2^{a k} \cdot V^b \) using nonlinear regression.
+        \item Compare the derived constants \(a\), \(b\), and \(c\) with theoretical predictions from \cite{alon1995color}.
+    \end{itemize}
+    \item \textbf{Heuristic Validation:}
+    \begin{itemize}
+        \item Evaluate early termination strategies (e.g., color saturation thresholds) and adaptive color sampling to reduce iterations.
+    \end{itemize}
+\end{itemize}
+
+
+
+\section{Conclusion}
+This project aims to bridge the gap between theory and practice for the color-coding method in subgraph isomorphism problems. By implementing both the randomized and derandomized algorithms—and by exploring alternative methods like random orientations—we intend to validate theoretical bounds while gaining practical insights into performance optimization. The comprehensive empirical analysis is expected to not only support existing theoretical results (e.g., those in \cite{alon1995color}) but also to suggest directions for further research and optimization in real-world graph applications.
+
+\bibliographystyle{plain}
+\begin{thebibliography}{9}
+    \bibitem{alon1995color} N. Alon, R. Yuster, and U. Zwick, "Color-Coding," \textit{Journal of the ACM}, vol. 42, no. 4, pp. 844–856, 1995.
+    \bibitem{schmidt1990spatial} J. P. Schmidt and A. Siegel, "The spatial complexity of oblivious k-probe hash functions," \textit{SIAM Journal on Computing}, vol. 19, no. 5, pp. 775–786, 1990.
+\end{thebibliography}
+
+\end{document}
+
+

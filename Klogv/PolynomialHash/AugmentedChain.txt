@@ -1,0 +1,2898 @@
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 47 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 58 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 43 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 76 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 85 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 70 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 195 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 202 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 173 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 189 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 192 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 193 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 208 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 434 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 437 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 240 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 259 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 262 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 625 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 648 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 651 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 759 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 784 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 787 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 806 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 833 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 836 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 902 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 944 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 947 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3543 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3616 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3620 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4201 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4257 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4261 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5520 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5603 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5607 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13708 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13807 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 13811 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16248 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16369 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16372 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18685 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18820 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 18824 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20980 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21133 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21137 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23494 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23674 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23678 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 38 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 42 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 43 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 54 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 57 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 73 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 86 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 89 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 237 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 276 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 283 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 208 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 240 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 243 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 360 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 411 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 416 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 657 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 736 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 743 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 715 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 741 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 744 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 834 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 862 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 865 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 924 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 961 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 964 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3146 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3243 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3253 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4114 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4189 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4193 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6179 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6448 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 6479 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13789 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13905 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 13909 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16186 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16322 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16328 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18903 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19043 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 19048 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21213 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21375 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21381 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23790 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23962 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23966 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 90 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 96 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 42 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 54 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 57 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 66 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 78 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 81 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 171 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 197 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 200 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 209 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 228 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 231 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 252 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 273 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 276 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 653 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 680 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 683 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 710 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 735 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 739 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 914 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 970 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 976 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1333 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1408 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 1413 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3084 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3139 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3143 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4036 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4093 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4096 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5225 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5331 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5342 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14015 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14113 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14117 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16470 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16594 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16599 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18591 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18724 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 18728 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20738 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20891 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20895 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 26417 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 26580 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 26585 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 30 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 33 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 46 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 55 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 58 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 68 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 80 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 83 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 155 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 167 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 350 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 354 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 218 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 235 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 238 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 237 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 256 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 259 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 660 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 684 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 690 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 951 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1233 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 1247 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 826 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 861 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 865 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 909 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 940 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 944 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3037 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3083 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3086 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4182 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4267 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4276 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5414 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5506 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5510 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13895 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14009 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14014 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16450 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16576 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16579 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18755 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18903 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 18908 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21373 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21590 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21594 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23219 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23388 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23396 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 46 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 52 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 42 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 53 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 56 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 70 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 81 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 84 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 172 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 186 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 189 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 201 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 218 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 221 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 417 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 435 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 438 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 761 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 809 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 813 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 744 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 770 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 773 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 788 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 799 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1644 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 1647 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 930 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 961 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 964 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3118 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3164 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3167 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4039 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4127 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4131 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5088 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5157 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5166 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13782 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13881 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 13885 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16380 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16504 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16508 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19621 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19766 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 19770 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20387 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20544 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20551 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22977 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23154 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23158 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 31 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 34 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 41 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 51 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 107 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 110 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 68 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 80 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 82 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 168 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 184 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 187 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 216 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 234 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 237 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 260 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 279 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 283 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 665 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 704 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 750 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 743 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 794 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 798 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 802 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 831 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 835 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 900 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 931 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 935 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3077 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3123 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3126 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4756 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4840 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4844 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5110 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5190 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5194 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13920 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14035 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14039 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16466 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16590 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16594 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18392 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18531 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 18536 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21029 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21186 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21190 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22824 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22985 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 22989 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 30 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 33 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 45 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 55 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 58 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 64 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 74 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 77 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 171 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 186 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 189 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 201 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 218 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 220 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 234 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 253 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 256 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 820 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 851 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 855 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 863 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 908 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 913 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 806 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 837 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 841 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 872 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 906 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 909 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3083 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3127 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3131 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4556 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4642 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4647 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 6088 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 6173 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 6177 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14434 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14545 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14548 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 15875 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 15998 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16003 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19564 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19799 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 19805 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20892 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21061 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21066 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22786 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 22957 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 22961 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 33 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 42 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 50 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 53 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 65 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 78 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 81 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 151 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 165 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 345 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 348 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 210 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 227 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 230 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 255 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 275 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 279 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 681 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 712 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 716 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 750 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 783 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 787 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 862 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 891 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 894 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 914 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 944 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 947 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2969 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3015 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3018 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4281 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4362 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4366 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5184 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5262 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5266 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14327 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14434 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14437 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16293 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16418 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16422 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18510 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18642 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 18646 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21030 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21185 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21189 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23656 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23822 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23827 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 44 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 47 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 43 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 54 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 57 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 66 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 78 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 80 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 168 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 183 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 186 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 212 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 229 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 232 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 240 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 260 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 263 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 636 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 666 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 669 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 845 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 761 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1671 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 1674 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 804 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 833 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 836 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 922 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 953 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 956 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2989 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3034 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3038 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4741 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4839 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4847 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5017 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5100 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5104 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13486 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13591 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 13594 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16173 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16295 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16299 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19892 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20039 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 20043 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20581 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20730 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20734 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24158 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24339 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 24344 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 30 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 33 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 42 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 51 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 54 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 63 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 75 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 78 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 176 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 192 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 195 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 208 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 224 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 226 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 260 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 278 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 281 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 636 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 667 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 670 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 905 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1015 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 1019 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 804 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 837 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 840 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 923 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 954 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 958 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3003 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3049 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3052 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4450 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4523 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4527 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5217 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5288 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5292 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14071 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14177 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14181 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16702 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16826 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16830 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18860 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19042 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 19053 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21280 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21444 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21448 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22921 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23087 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23091 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 32 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 42 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 56 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 61 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 65 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 76 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 79 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 162 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 178 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 181 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 207 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 224 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 227 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 254 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 277 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 280 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 977 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1173 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 1211 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 1072 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 1112 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 1117 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 828 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 873 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 877 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 911 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 943 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 947 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3053 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3099 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3102 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4255 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4329 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4334 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4978 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5059 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5063 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14163 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14276 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14317 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16298 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16418 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16422 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18813 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19047 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 19053 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 21201 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21356 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21360 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23875 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24064 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 24069 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 32 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 43 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 52 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 55 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 68 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 80 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 83 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 175 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 188 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 191 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 214 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 231 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 235 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 263 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 284 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 287 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 691 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 737 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 742 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 742 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 768 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 771 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 834 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 862 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 865 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 894 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 924 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 927 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3129 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3175 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3178 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4339 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4413 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4418 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5057 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5128 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5131 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14148 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14255 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14259 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16385 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16511 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16515 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18754 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18938 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 18944 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20576 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20735 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20739 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23828 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24282 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 24300 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 10 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 59 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 62 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 39 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 39 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 44 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 630 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 633 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 64 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 78 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 81 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 154 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 169 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 178 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 364 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 391 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 396 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 241 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 268 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 271 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 622 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 645 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 648 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 688 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 713 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 716 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 812 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 840 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 843 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 884 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 914 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 917 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3060 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3146 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3150 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4163 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4252 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4256 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4958 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5027 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5030 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13910 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14017 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14023 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16112 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16232 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16236 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19310 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19449 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 19453 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20612 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20761 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20765 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24767 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24952 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 24961 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 31 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 34 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 42 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 50 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 53 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 65 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 75 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 78 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 167 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 182 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 186 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 217 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 234 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 237 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 241 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 272 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 275 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 683 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 730 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 734 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 745 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 780 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 789 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 870 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 899 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 902 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 935 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 966 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 969 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3067 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3112 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3115 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4065 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4137 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4142 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5295 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5365 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5369 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13830 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13937 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 13944 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16215 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16332 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16336 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19215 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19362 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 19366 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20914 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21061 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21065 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23449 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23643 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23647 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 33 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 40 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 49 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 52 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 69 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 81 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 84 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 152 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 165 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 350 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 353 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 212 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 230 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 233 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 322 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 366 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 370 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 759 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 796 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 800 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 725 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 750 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 754 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 828 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 859 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 862 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 888 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 918 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 921 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2998 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3045 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3049 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 8278 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 8350 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 8354 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5102 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5171 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5174 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13671 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13773 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 13777 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16244 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16431 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16437 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18443 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18587 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 18591 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20577 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20734 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20741 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22830 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23000 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23005 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 29 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 33 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 42 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 52 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 55 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 66 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 78 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 80 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 179 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 195 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 199 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 270 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 357 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 367 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 246 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 267 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 270 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 644 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 667 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 671 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 703 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 728 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 731 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 826 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 854 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 857 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 897 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 927 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 931 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3210 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3261 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3264 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4475 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4558 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4563 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5168 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5238 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5242 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 14092 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14204 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14209 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16068 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16197 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16201 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18124 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18272 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 18276 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20807 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20958 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20962 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23762 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23993 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23998 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 10 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 43 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 46 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 42 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 51 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 53 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 63 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 75 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 78 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 157 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 164 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 346 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 349 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 206 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 241 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 244 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 268 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 295 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 298 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 655 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 678 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 681 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 737 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 762 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 765 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 780 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 807 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 810 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 893 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 923 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 927 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2939 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2983 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 2987 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4301 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4372 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4375 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4963 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5032 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5035 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13751 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13852 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 13855 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 17095 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 17219 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 17223 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19891 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20105 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 20110 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20781 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20932 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20935 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 24054 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 24229 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 24238 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 31 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 34 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 44 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 52 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 55 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 69 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 82 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 85 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 164 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 179 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 182 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 220 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 243 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 246 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 257 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 284 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 287 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 660 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 685 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 688 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 736 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 761 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 765 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 836 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 869 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 875 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 899 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 929 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 933 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3064 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3109 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3112 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4334 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4408 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4412 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5121 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5192 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5195 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13825 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13930 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 13934 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16315 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16439 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16443 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 19734 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19887 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 19891 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20823 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20974 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20978 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23446 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23614 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23618 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 11 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 10 microseconds
+[DerandomizedColorCoding::has_colorful_path] Time taken: 10 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 59 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 62 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 42 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 51 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 53 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 69 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 84 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 87 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 155 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 170 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 174 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 200 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 217 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 220 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 248 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 279 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 283 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 718 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 755 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 758 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 689 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 715 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 719 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 785 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 817 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 822 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 917 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 947 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 950 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 2923 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 2967 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 2971 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4543 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4619 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4624 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5005 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5075 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5078 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13772 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 13871 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 13874 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16109 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16231 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16235 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18892 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 19037 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 19042 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20935 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 21155 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 21159 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 22973 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23141 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23145 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 12 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 31 microseconds
+Augmented Chain Graph:
+  Vertices: 10, Edges: 24, Path length: 3
+  Contains colorful path: true
+  Time taken: 34 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 46 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 55 microseconds
+Augmented Chain Graph:
+  Vertices: 20, Edges: 54, Path length: 4
+  Contains colorful path: true
+  Time taken: 58 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 65 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 78 microseconds
+Augmented Chain Graph:
+  Vertices: 30, Edges: 84, Path length: 4
+  Contains colorful path: true
+  Time taken: 81 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 166 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 185 microseconds
+Augmented Chain Graph:
+  Vertices: 40, Edges: 114, Path length: 5
+  Contains colorful path: true
+  Time taken: 188 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 211 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 226 microseconds
+Augmented Chain Graph:
+  Vertices: 50, Edges: 144, Path length: 5
+  Contains colorful path: true
+  Time taken: 230 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 241 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 260 microseconds
+Augmented Chain Graph:
+  Vertices: 60, Edges: 174, Path length: 5
+  Contains colorful path: true
+  Time taken: 263 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 670 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 706 microseconds
+Augmented Chain Graph:
+  Vertices: 70, Edges: 204, Path length: 6
+  Contains colorful path: true
+  Time taken: 710 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 743 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 773 microseconds
+Augmented Chain Graph:
+  Vertices: 80, Edges: 234, Path length: 6
+  Contains colorful path: true
+  Time taken: 776 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 860 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 903 microseconds
+Augmented Chain Graph:
+  Vertices: 90, Edges: 264, Path length: 6
+  Contains colorful path: true
+  Time taken: 910 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 910 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 941 microseconds
+Augmented Chain Graph:
+  Vertices: 100, Edges: 294, Path length: 6
+  Contains colorful path: true
+  Time taken: 944 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 3063 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 3113 microseconds
+Augmented Chain Graph:
+  Vertices: 150, Edges: 444, Path length: 7
+  Contains colorful path: true
+  Time taken: 3116 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 4207 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 4287 microseconds
+Augmented Chain Graph:
+  Vertices: 200, Edges: 594, Path length: 7
+  Contains colorful path: true
+  Time taken: 4291 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 5121 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 5192 microseconds
+Augmented Chain Graph:
+  Vertices: 250, Edges: 744, Path length: 7
+  Contains colorful path: true
+  Time taken: 5195 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 13904 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 14008 microseconds
+Augmented Chain Graph:
+  Vertices: 300, Edges: 894, Path length: 8
+  Contains colorful path: true
+  Time taken: 14012 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 16123 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 16240 microseconds
+Augmented Chain Graph:
+  Vertices: 350, Edges: 1044, Path length: 8
+  Contains colorful path: true
+  Time taken: 16244 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 18757 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 18896 microseconds
+Augmented Chain Graph:
+  Vertices: 400, Edges: 1194, Path length: 8
+  Contains colorful path: true
+  Time taken: 18905 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 20712 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 20873 microseconds
+Augmented Chain Graph:
+  Vertices: 450, Edges: 1344, Path length: 8
+  Contains colorful path: true
+  Time taken: 20887 microseconds
+
+---------------------------------------------------
+[DerandomizedColorCoding::has_colorful_path] Time taken: 23798 microseconds
+[DerandomizedColorCoding::contains_path] Time taken: 23960 microseconds
+Augmented Chain Graph:
+  Vertices: 500, Edges: 1494, Path length: 8
+  Contains colorful path: true
+  Time taken: 23965 microseconds
+
